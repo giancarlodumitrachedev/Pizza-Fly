@@ -17,9 +17,6 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Pizza Fly",
   description: "Ordina la tua pizza preferita online da Pizza Fly a Pesaro. Consegna a domicilio e ritiro in sede.",
-  icons: {
-    icon: "/logo.png",
-  },
 };
 
 export default function RootLayout({
