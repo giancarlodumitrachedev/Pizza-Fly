@@ -74,7 +74,6 @@ export function Features() {
                   alt={feature.title}
                   fallbackText={feature.image}
                   className="rounded-2xl shadow-lg"
-                  unoptimized={feature.id === "03"}
                 />
               </motion.div>
 

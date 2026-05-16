@@ -45,7 +45,6 @@ export function SpecialEvents() {
               alt="Evento Speciale"
               fallbackText="events.jpg" 
               className="w-full h-full object-cover rounded-xl lg:rounded-none lg:rounded-l-[4rem] bg-blue-900 border-none opacity-80" 
-              unoptimized
             />
           </motion.div>
 
